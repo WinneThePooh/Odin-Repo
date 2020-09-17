@@ -1,0 +1,1 @@
+This is Maksym Rudenko first git project!
